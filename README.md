@@ -22,6 +22,6 @@ Apresentação de um sistema para dispositivos móveis para o gerenciamento de i
 
 ### Login
 <div align="left">
-<img src="[https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/3ff30525-73f7-42cd-853c-97440cbeba76](https://drive.google.com/file/d/11nH_ihE0fJDRV2RZMG6RiqmrwW7EuxYM/view?usp=sharing)" width="600px" />
+<img src="([Imagem 1 - Login.](https://drive.google.com/file/d/11nH_ihE0fJDRV2RZMG6RiqmrwW7EuxYM/view?usp=sharing))" width="600px" />
 </div>
-**Imagem 1** - Login.
+
