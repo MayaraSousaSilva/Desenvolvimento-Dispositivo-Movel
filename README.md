@@ -24,4 +24,34 @@ Apresentação de um sistema para dispositivos móveis para o gerenciamento de i
 <div align="left">
 <img src="https://github.com/user-attachments/assets/e642cefc-6811-4de5-a956-dbba0110d8b7" width="200px" />
 </div>
-**Fonte: elaborada pelo autor Gabriel Sousa Silva (2024).
+**Fonte:**elaborada pelo autor Gabriel Sousa Silva (2024).
+
+### Home
+<div align="left">
+<img src="https://github.com/user-attachments/assets/e642cefc-6811-4de5-a956-dbba0110d8b7" width="200px" />
+</div>
+**Fonte:**elaborada pelo autor Mayara Sousa Silva (2024).
+
+### Cadastro
+<div align="left">
+<img src="https://github.com/user-attachments/assets/c13e9b76-a023-4bfe-9307-87b9cc7de449" width="200px" />
+</div>
+**Fonte:**elaborada pelo autor Maycon Mycklin Da Silva Souza (2024).
+
+### Historico
+<div align="left">
+<img src="https://github.com/user-attachments/assets/5d68aa82-fec2-4749-92e7-b37acd7da3a1" width="200px" />
+</div>
+**Fonte:**elaborada pelo autor Jackeline Akemi de Moura (2024).
+
+### Notificação
+<div align="left">
+<img src="https://github.com/user-attachments/assets/45c3deda-35da-4d92-bf00-a608ccb40818" width="200px" />
+</div>
+**Fonte:**elaborada pelo autor Ivisnaldo de Sousa Simplicio (2024).
+
+### Settings
+<div align="left">
+<img src="https://github.com/user-attachments/assets/f7d9857a-e0e6-4499-a030-864982c5c453" />
+</div>
+**Fonte:**:elaborada pelo autor Denis Rodrigues De Almeida (2024).
