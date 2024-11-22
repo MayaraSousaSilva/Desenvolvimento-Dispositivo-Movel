@@ -22,6 +22,6 @@ Apresentação de um sistema para dispositivos móveis para o gerenciamento de i
 
 ### Login
 <div align="left">
-<img src="([Imagem 1 - Login.](https://drive.google.com/file/d/11nH_ihE0fJDRV2RZMG6RiqmrwW7EuxYM/view?usp=sharing))" width="600px" />
+<img src="(https://github.com/user-attachments/assets/e642cefc-6811-4de5-a956-dbba0110d8b7)" width="600px" />
 </div>
-
+**Fonte: elaborada pelo autor Gabriel Sousa Silva (2024).
